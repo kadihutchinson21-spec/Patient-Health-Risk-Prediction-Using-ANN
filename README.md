@@ -1,10 +1,10 @@
-# 🩺 Health Risk Tier Prediction Using Artificial Neural Networks
+#  Health Risk Tier Prediction Using Artificial Neural Networks
 
 Machine Learning | Healthcare Analytics | Classification
 
 ---
 
-## 📖 Project Overview
+##  Project Overview
 
 This project develops and evaluates Artificial Neural Network (ANN) models to classify patients into three health risk tiers using demographic, lifestyle, and clinical data. The objective was to determine whether neural networks could improve prediction accuracy compared to a traditional Logistic Regression model.
 
@@ -12,13 +12,13 @@ The project demonstrates the complete machine learning pipeline, including data 
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 Develop a machine learning model capable of accurately predicting patient health risk levels while comparing the performance of multiple ANN architectures against a Logistic Regression baseline.
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 The dataset consists of **600 patient records** classified into **three health risk tiers**.
 
